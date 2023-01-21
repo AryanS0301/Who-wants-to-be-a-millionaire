@@ -1,0 +1,55 @@
+What does IPO Programming stand for?
+a) Inertia personal organizer
+b) Input process output
+c) Indulge practice outside
+d) Initial public offering
+b
+What is the first step in the IPO programming process?
+a) Input
+b) Process
+c) Output
+d) Results
+a
+What is the purpose of the input stage in IPO programming?
+a) To gather data for the program
+b) To execute the program
+c) To display the results
+d) To print input on the screen
+a
+What is the main function of the process stage in IPO programming?
+a) To display the results
+b) To analyze and manipulate the input data
+c) To gather data for the program
+d) To process money transactions
+b
+What is the final step in the IPO programming process?
+a) Process
+b) Input
+c) Output
+d) Load into Memory
+c
+What type of data is typically used in the input stage of IPO programming?
+a) Raw Data
+b) Processed Data
+c) Output Data
+d) There is no data needed
+a
+What is the primary goal of the output stage in IPO programming?
+a) To analyze and manipulate the input data
+b) To gather data for the program
+c) To present the results of the program
+d) To display error messages
+c
+What is the difference between input and output in IPO programming?
+a) Input is the data used by the program and output is the result of the program
+b) Input is the result of the program and output is the data used by the program
+c) There is no difference between input and output in IPO programming
+d) The spelling is just the main difference
+a
+Can the input stage in IPO programming be skipped?
+a) No it can't every program requires some type of input
+b) Yes it's all up to the programmer
+c) Sometimes an input may be ignored
+d) Input stage is not a part of IPO programming
+a
+
